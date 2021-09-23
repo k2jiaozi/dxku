@@ -1,7 +1,7 @@
 {
-    "name": "Xray",
-    "description": "Xray-core on Heroku",
-    "keywords": ["Xray", "V2Ray"],
+    "name": "dxku",
+    "description": "dxku",
+    "keywords": ["dxku"],
     "env": {
         "UUID": {
             "description": "UUID of the user",
@@ -12,7 +12,7 @@
             "value": "/"        
         }
     },
-    "website": "https://github.com/AkinoKaede/xray-heroku",
-    "repository": "https://github.com/AkinoKaede/xray-heroku",
+    "website": "https://github.com/k2jiaozi/dxku",
+    "repository": "https://github.com/k2jiaozi/dxku",
     "stack": "container"
 }
